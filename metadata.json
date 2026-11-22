@@ -1,0 +1,6 @@
+{
+  "name": "mylife",
+  "description": "O'zbek tilidagi zamonaviy kunlik ishlarni rejalashtirish, aqlli maslahatlar va musiqali eslatma ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
